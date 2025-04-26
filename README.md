@@ -1,4 +1,4 @@
 # Samruddhi-bojja
 This is my first Git Repository.
 <br>
-Author- Samrudhdi Bojja
+Author- Samruddhi Bojja
